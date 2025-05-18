@@ -2,7 +2,9 @@
 ---
 
 ![](https://miro.medium.com/v2/resize:fit:1400/0*ssbGU5VIxtVB6NrF)
+
 This data science project aims to predict individual medical costs using a dataset containing various attributes related to health insurance. The project focuses on analyzing features such as age, gender, BMI, number of children, smoking status, region, and predicting the corresponding medical costs.
+
 ---
 
 ## Dataset Information
